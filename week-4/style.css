@@ -13,3 +13,8 @@ p {
   font-family: Arial, Helvetica, sans-serif;
   color:black
 }
+
+h6 {
+  color: rgb(255, 221, 53);
+  text-align: left;
+}
