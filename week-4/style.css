@@ -20,5 +20,6 @@ h6 {
 }
 
 strong {
-  color:hotpink
+  color:hotpink;
+  font-family:'Times New Roman', Times, serif
 }
