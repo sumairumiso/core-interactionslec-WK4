@@ -7,3 +7,7 @@ h1 {
   color: rgb(255, 117, 186);
   text-align: center;
 }
+
+p {
+  font-family: Arial, Helvetica, sans-serif
+}
